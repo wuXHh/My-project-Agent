@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## MultiAgent 营销内容工厂（MVP）
 
 本项目实现一套可编排、可审计、可扩展到 SaaS 的多 Agent 内容生产系统（MVP 先以“人工审核 + 导出发布包”为主）。
@@ -33,3 +34,7 @@ celery -A app.worker.celery_app worker -l INFO
 ### 环境变量
 见 `backend/.env.example`。
 
+=======
+# My-project-Agent
+实现一套可编排、可审计、可扩展到 SaaS 的多 Agent 内容生产系统（MVP 先以“人工审核 + 导出发布包”为主）
+>>>>>>> 0ce46eff3697fc7b4e7a4e818e71e691a137bf11
